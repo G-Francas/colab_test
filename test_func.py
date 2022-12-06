@@ -1,4 +1,4 @@
-from extra import *
+from colab_test.extra import *
 def test_function(num1,num2):
     num1 = extra_function(num1,num2)
     print(f'{num1}+{num2}={num1+num2}')
